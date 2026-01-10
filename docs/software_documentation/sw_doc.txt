@@ -1,8 +1,14 @@
 UAV Swarm Software Repository
 https://gitee.com/fancinnov/fcu_core
 
+Quadrotor Software Repository
+https://github.com/fancinnov/quadrotor_msgs
+
 FanciSwarm Drone Documentation
 https://fancinnov.com/support-FanciSwarm
+
+ROS Noetic Installation
+https://wiki.ros.org/noetic/Installation/Ubuntu
 
 ROS RViz User Guide
 https://docs.ros.org/en/humble/Tutorials/Intermediate/RViz/RViz-User-Guide/RViz-User-Guide.html#install-or-build-rviz
